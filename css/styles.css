@@ -1,0 +1,158 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    background-color: #e8f3f0;
+  
+
+}
+
+h1{
+    margin: 10px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5rem;
+    color:  #4AB19A;
+    line-height: 1.5;
+
+}
+
+h2{ 
+   font-family: 'Montserrat', sans-serif;
+   font-size: 2em;
+   color:  #4AB19A;
+   text-decoration: underline;
+   
+
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+    color: #11999E;
+
+}
+
+
+.top-container{
+    background-color: #E0EBE8;
+    padding: relative;
+    padding-top: 130px;
+
+}
+
+.middle-container{
+    margin-top: 100px;
+
+}
+
+.intro{
+    width: 50%;
+    margin: 50px auto 50px auto;
+    line-height: 2;
+    font-weight: 700;
+}
+
+.bottom-container{
+  
+    background-color: #66BFBF;
+  
+    padding: 100px 0px 20px;
+
+}
+
+.copyright{
+    color: #ffffff;
+}
+
+a{
+    margin: 40px 10px;  
+    color: #717171;
+    text-decoration: none;
+
+}
+a:hover{
+    color: white;
+}
+
+.blog{
+    text-decoration: underline;
+}
+
+
+
+
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;    
+    }
+
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    top: 300px;
+
+}
+
+
+
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+    font-weight: 700;
+}
+
+.skill_image{
+    width: 25%;
+    float: left;
+    margin-right: 50px;
+    font-weight: 700;
+}
+
+.btn {
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 23px;
+    background: #4AB19A;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+
+  .btn:hover{
+    text-decoration: underline;
+  }
+
+  .hr-dot{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: wheat;
+    border-width: 10px;
+    width: 5%;
+    margin: 100px auto 30px auto;
+  }
+
+.footer-intro{
+    font-weight: 700;
+    line-height: 2;
+}
+
+.contact-me{
+
+    width: 50%;
+    margin: 100px auto 50px auto;
+
+    
+
+}
+.footer-intro{
+
+    font-size: 18px;
+    color: black;
+    margin: 50px auto 50px auto;
+    
+}
